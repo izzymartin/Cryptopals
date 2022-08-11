@@ -1,4 +1,5 @@
 # Challenge 1 Convert hex to base64
+#   https://www.cryptopals.com/sets/1/challenges/1
 from base64 import b64encode
 
 # Converts hex to base64
